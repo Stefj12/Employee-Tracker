@@ -28,6 +28,10 @@ $ node app.js
 
 
 #### Sample output by Card
+![Screenshot (15)](https://user-images.githubusercontent.com/70540019/96196916-752bf400-0f05-11eb-9423-36d60e5c1030.png)
+![Screenshot (16)](https://user-images.githubusercontent.com/70540019/96196926-79581180-0f05-11eb-899e-6c09af9f1576.png)
+![Screenshot (17)](https://user-images.githubusercontent.com/70540019/96196930-7ceb9880-0f05-11eb-8450-1bc21fbf3611.png)
+![Screenshot (18)](https://user-images.githubusercontent.com/70540019/96196938-807f1f80-0f05-11eb-85ec-dd02219a8644.png)
 
 
 
